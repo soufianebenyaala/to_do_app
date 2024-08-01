@@ -56,7 +56,7 @@ class SplashScreen extends StatelessWidget {
               const Expanded(
                 flex: 4,
                 child: SizedBox(),
-              ),
+              ), 
               FillButtonWidget(
                 text: 'Get Started',
                 onPressed: () {
