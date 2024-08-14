@@ -2,9 +2,9 @@
 
 A To do App project.
 
-you can find design in [figma](https://www.figma.com/community/file/1048374613102974739)
+you can find design in [figma](https://www.figma.com/community/file/1229719883276551092/mobile-app-design-todo-app)
 
-inspiration by [@Najeeb Yunusa Hassan](https://www.figma.com/@najeebyunusa) 
+inspiration by [@jiGogoyani](https://www.figma.com/@jigogoyani) 
 
 ## Getting Started
 
